@@ -1,1 +1,0 @@
-import{_ as s,o as n,c as o,a as e}from"./index-9f8c8234.js";const c={},t={class:"text-center"},a=e("h2",null," Apoyanos ",-1),_=e("span",{class:"mif-wrench ani-spanner"},null,-1),r=[a,_];function i(l,d){return n(),o("div",t,r)}const h=s(c,[["render",i]]);export{h as default};
