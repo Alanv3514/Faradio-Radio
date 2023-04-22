@@ -1,1 +1,0 @@
-import{_ as s,o as c,c as n,a as e}from"./index-8037be66.js";const o={},t={class:"text-center"},a=e("h2",null," Programacion ",-1),r=e("span",{class:"mif-wrench ani-spanner"},null,-1),_=[a,r];function i(l,d){return c(),n("div",t,_)}const h=s(o,[["render",i]]);export{h as default};
