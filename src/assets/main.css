@@ -1,0 +1,21 @@
+*{
+  color: aliceblue!important;
+}
+
+body{
+  background-image: url("./wallpaperflare.jpg"); 
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
+nav>ul{
+  background-color: #FA6800 !important ;
+  opacity: 0.75;
+
+}
+nav>ul>li>a{
+  text-decoration: aliceblue!important;
+  color: aliceblue!important;
+  opacity: 1;
+}
