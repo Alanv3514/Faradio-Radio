@@ -23,3 +23,8 @@ npm run dev
 ```sh
 npm run build
 ```
+### Compile and Minify for Github Pages
+
+```sh
+npm run deploy
+```
